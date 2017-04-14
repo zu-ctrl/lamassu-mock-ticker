@@ -1,0 +1,12 @@
+{
+  "name": "lamassu-mock-ticker",
+  "version": "1.0.0",
+  "description": "A fake ticker plugin for testing lamassu-server",
+  "main": "index.js",
+  "repository": "https://github.com/lamassu/lamassu-mock-ticker.git",
+  "author": "Josh Harvey <josh@lamassu.is>",
+  "license": "Unlicense",
+  "dependencies": {
+    "bignumber.js": "^4.0.0"
+  }
+}
